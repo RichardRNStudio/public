@@ -1,0 +1,14 @@
+{
+    "providers": [
+      {
+        "id": "EPX",
+        "name": "EPX",
+        "active": "NO"
+      },
+      {
+        "id": "WRLDP",
+        "name": "WorldPay",
+        "active": "YES"
+      }
+    ]
+}
